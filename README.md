@@ -1,3 +1,10 @@
+--Curso: Base de Datos II
+--Docente:Ing.Patrick Cuadros Quiroga
+--Nombre: Joel Robert
+--Apellidos: Ccalli Chata
+--Código: 2017057528
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/gw2ICP1b)
 # :wave: The Basics of GitHub 
 
