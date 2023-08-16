@@ -11,6 +11,10 @@
 
 ## 🤓 Course overview and learning outcomes 
 
+| Nombre  | Apellido  | Codigo  | Correo  |
+|--------------|--------------|--------------|--------------|
+| Joel Robert    | Ccalli Chata    | 2017057528    | jc2017057528@virtual.upt.pe    |
+
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
 ## :octocat: Git and GitHub
