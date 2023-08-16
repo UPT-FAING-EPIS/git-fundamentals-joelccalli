@@ -1,4 +1,7 @@
 # :wave: The Basics of Git and GitHub 
+| Nombre  | Apellido  | Codigo  |
+|--------------|--------------|--------------|
+| Joel Robert    | Ccalli Chata    | 2017057528    |
 
 ## 🤓 Course overview and learning outcomes 
 
